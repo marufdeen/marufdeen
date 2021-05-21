@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with react
 - 💬 Ask me about nodejs
 - 📫 How to reach me: marufajagunna@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I like to watch boxing fight 😉
