@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on https://github.com/marufdeen/youdeygo (A car pooling app)
+- 🔭 I’m currently working on https://github.com/marufdeen/medisure (A medical laboratory app)
 - 🌱 I’m currently learning react
 - 👯 I’m looking to collaborate on nodejs application
 - 🤔 I’m looking for help with react
