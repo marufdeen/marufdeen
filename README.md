@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on https://github.com/marufdeen/medisure (A medical laboratory app)
-- 🌱 I’m currently learning react
+- 🌱 I’m currently working on a react
 - 👯 I’m looking to collaborate on nodejs application
 - 🤔 I’m looking for help with react
 - 💬 Ask me about nodejs
